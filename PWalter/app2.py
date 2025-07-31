@@ -70,7 +70,8 @@ if st.button("Ouvir risada do Walter"):
 
 # ========== Botão para mostrar imagem engraçada ==========
 if st.button("Ver imagem secreta do Walter 🕵️‍♀️"):
-    imagem_path = "imagens/walter.jpg"
+    imagem_path = "PWalter-com-imagem-e-som/PWalter/imagens
+/walter.jpg"
     if os.path.exists(imagem_path):
         st.image(imagem_path, caption="Walter capturado em modo gayzisse total 👀✨")
     else:
