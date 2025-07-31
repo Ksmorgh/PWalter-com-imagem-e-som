@@ -66,7 +66,7 @@ if st.button("Piada aleatória sobre Walter🌈"):
     st.write(piada_walter())
 
 if st.button("Ouvir risada do Walter"):
-    play_sound_base64("sons/walter.mp3")
+    play_sound_base64("PWalter/sons/walter.mp3")
 
 # ========== Botão para mostrar imagem engraçada ==========
 if st.button("Ver imagem secreta do Walter 🕵️‍♀️"):
